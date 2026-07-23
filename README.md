@@ -163,3 +163,34 @@ I --> J
 I --> K
 
 H --> B
+
+
+# 📖 Documentation
+
+<p align="center">
+
+<a href="./DOCUMENTATION.md">
+
+<img src="https://img.shields.io/badge/📚%20Read%20Full%20Documentation-Open-blue?style=for-the-badge">
+
+</a>
+
+</p>
+
+Click the documentation button above to explore the complete NOVA AI architecture, AI routing system, memory design, automation engine, and technical workflow.
+
+---
+
+# 📂 Additional Resources
+
+| Resource         | Description                    |
+| ---------------- | ------------------------------ |
+| 📘 Documentation | Complete technical explanation |
+| 🏗️ Architecture | System design and AI workflow  |
+| 🧠 Memory System | ChromaDB + SQLite design       |
+| 🤖 AI Router     | Groq + Ollama fallback logic   |
+| 🖥️ Automation   | Desktop control architecture   |
+| 🚀 Setup Guide   | Installation instructions      |
+
+---
+
