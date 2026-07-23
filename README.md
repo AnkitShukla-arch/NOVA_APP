@@ -288,9 +288,6 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 ## 🎥 Demo
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1LQvjQurzuNe3QyqzRPicC-9EJ66fqtaJ/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/▶️%20Watch%20the%20Demo%20Video-red?style=for-the-badge">
-  </a>
   <a href="https://github.com/anshxgaur/NOVA">
     <img src="https://img.shields.io/badge/⭐%20View%20on%20GitHub-black?style=for-the-badge&logo=github">
   </a>
