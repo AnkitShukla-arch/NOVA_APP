@@ -344,10 +344,12 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 </tr>
 </table>
 
-<p align="center">
-  <img src="assets/gifs/200.webp" width="100%">
-</p>
 ## 🏁 Conclusion
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Built+with+❤️;For+a+smarter+AI+experience" alt="Typing SVG">
+
+<p align="center">
+  <img src="assets/gifs/200.webp" width="100%">
+</p>
+
