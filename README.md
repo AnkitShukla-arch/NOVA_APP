@@ -5,12 +5,6 @@
 </p>
 
 
-<h1 align="center">🚀 NOVA AI</h1>
-
-<p align="center">
-  <b>Your Personal AI Assistant — with Memory, Voice, Automation, and Edge-First Intelligence</b>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
