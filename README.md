@@ -300,34 +300,48 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 
 <h2>👥 Team</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN_URL_1/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
-  </a>
-  <b>Ansh Gaur</b>
+<h2 align="center">👥 Team</h2>
 
-  &nbsp;&nbsp;&nbsp;
+<table align="center">
+<tr>
+<td align="center">
 
-  <a href="https://www.linkedin.com/in/LINKEDIN_URL_2/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
-  </a>
-  <b>Abhinav Roy</b>
+<a href="https://www.linkedin.com/in/LINKEDIN_URL_1/">
+<img src="https://github.com/identicons/ansh.png" width="90px;" alt="Ansh"/><br>
+<b>Ansh Gaur</b>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
+</td>
 
-  <a href="https://www.linkedin.com/in/LINKEDIN_URL_3/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
-  </a>
-  <b>Apoorva Shukla</b>
+<td align="center">
 
-  &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/LINKEDIN_URL_2/">
+<img src="https://github.com/identicons/abhinav.png" width="90px;" alt="Abhinav"/><br>
+<b>Abhinav Roy</b>
+</a>
 
-  <a href="https://www.linkedin.com/in/ankit-shukla-877705285/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
-  </a>
-  <b>Ankit Shukla</b>
-</p>
+</td>
 
+<td align="center">
+
+<a href="https://www.linkedin.com/in/LINKEDIN_URL_3/">
+<img src="https://github.com/identicons/apoorva.png" width="90px;" alt="Apoorva"/><br>
+<b>Apoorva Shukla</b>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/ankit-shukla-877705285/">
+<img src="https://github.com/AnkitShukla-arch.png" width="90px;" alt="Ankit"/><br>
+<b>Ankit Shukla</b>
+</a>
+
+</td>
+
+</tr>
+</table>
 ## 🏁 Conclusion
 
 <p align="center">
