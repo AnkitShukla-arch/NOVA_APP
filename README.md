@@ -298,14 +298,35 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 
 <br>
 
-## 👥 Team
+<h2>👥 Team</h2>
 
 <p align="center">
-Ansh Gaur &nbsp;•&nbsp; Abhinav Roy &nbsp;•&nbsp; Apoorva Shukla &nbsp;•&nbsp; Ankit Shukla
+  <a href="https://www.linkedin.com/in/LINKEDIN_URL_1/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
+  </a>
+  <b>Ansh Gaur</b>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/LINKEDIN_URL_2/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
+  </a>
+  <b>Abhinav Roy</b>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/LINKEDIN_URL_3/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
+  </a>
+  <b>Apoorva Shukla</b>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/ankit-shukla-877705285/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
+  </a>
+  <b>Ankit Shukla</b>
 </p>
-
-<br>
-
 ## 🏁 Conclusion
 
 <p align="center">
