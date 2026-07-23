@@ -296,18 +296,22 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
   </a>
 </p>
 
+<p align="center">
+<a href="https://drive.google.com/file/d/1LQvjQurzuNe3QyqzRPicC-9EJ66fqtaJ/view?usp=drive_link">
+<img src="assets/demo/demo.gif" width="900">
+</a>
+</p>
+
 <br>
 
 <h2>👥 Team</h2>
-
-<h2 align="center">👥 Team</h2>
 
 <table align="center">
 <tr>
 <td align="center">
 
-<a href="https://www.linkedin.com/in/LINKEDIN_URL_1/">
-<img src="https://github.com/identicons/ansh.png" width="90px;" alt="Ansh"/><br>
+<a href="https://www.linkedin.com/in/ansh-gaur-46b7a4378/">
+<img src="https://github.com/anshxgaur.png" width="90px;" alt="Ansh"/><br>
 <b>Ansh Gaur</b>
 </a>
 
@@ -315,8 +319,8 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 
 <td align="center">
 
-<a href="https://www.linkedin.com/in/LINKEDIN_URL_2/">
-<img src="https://github.com/identicons/abhinav.png" width="90px;" alt="Abhinav"/><br>
+<a href="www.linkedin.com/in/abhinav-roy-">
+<img src="https://github.com/Abhinav-Roy-01.png" width="90px;" alt="Abhinav"/><br>
 <b>Abhinav Roy</b>
 </a>
 
@@ -324,8 +328,8 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 
 <td align="center">
 
-<a href="https://www.linkedin.com/in/LINKEDIN_URL_3/">
-<img src="https://github.com/identicons/apoorva.png" width="90px;" alt="Apoorva"/><br>
+<a href="https://www.linkedin.com/in/apoorvashukla9091/">
+<img src="https://github.com/apoorva-s9091.png" width="90px;" alt="Apoorva"/><br>
 <b>Apoorva Shukla</b>
 </a>
 
@@ -342,6 +346,7 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 
 </tr>
 </table>
+
 ## 🏁 Conclusion
 
 <p align="center">
