@@ -15,7 +15,6 @@
 </p>
 
 ![](assets/banner/Twitter header.jpg)
-
 <p align="center">
   <a href="#-what-is-nova">What is NOVA?</a> •
   <a href="#-key-features">Features</a> •
