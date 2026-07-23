@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/License-MIT-1E7A3D?style=for-the-badge">
 </p>
 
+---
+
 <p align="center">
   <img src="assets/banner/header.jpg" alt="Header Banner" width="100%">
 </p>
