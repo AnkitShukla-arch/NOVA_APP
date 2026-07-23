@@ -344,7 +344,9 @@ Once Ollama is running locally, NOVA automatically switches to it whenever Groq 
 </tr>
 </table>
 
-
+<p align="center">
+  <img src="assets/gifs/200.webp" width="100%">
+</p>
 ## 🏁 Conclusion
 
 <p align="center">
